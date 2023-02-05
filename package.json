@@ -1,0 +1,17 @@
+{
+  "name": "nodefarm",
+  "version": "1.0.0",
+  "description": "This is my Node Project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Suriya Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
